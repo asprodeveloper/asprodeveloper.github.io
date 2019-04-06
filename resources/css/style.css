@@ -216,18 +216,18 @@ header {
 }
 
 .logo {
-    height: 100px;
+    height: 125px;
     width: auto;
     float: left;
-    margin-top: 20px;
+    margin-top: 15px;
 }
 
 .logo-black { 
     display: none;
-    height: 50px;
+    height: 64px;
     width: auto;
     float: left;
-    margin: 5px 0;
+    margin: 0;
 }
 
 /* Main navi */
