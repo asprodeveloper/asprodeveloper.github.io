@@ -55,7 +55,7 @@
         width: 100%;
         margin: 0 0 4% 0;
     }
-    
+    .section-testimonials { background-position: center;}
     
     .main-nav { display: none; }
     .mobile-nav-icon {display: inline-block;}
